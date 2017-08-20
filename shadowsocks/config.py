@@ -12,7 +12,7 @@ CONFIG_VERSION = '20160623-2'
 # If API is enabled, database will be no longer used
 # The known app that supports API is SS-Panel V3
 # Be careful and check whether your app supports this API BEFORE you enable this feature
-API_ENABLED = False
+API_ENABLED = True
 
 # Database Config
 MYSQL_HOST = 'mengsky.net'
